@@ -428,7 +428,6 @@ PRODUCT_PACKAGES += \
     sensors.touch \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     vendor.qti.hardware.sensorscalibrate@1.0 \
-    vendor.xiaomi.hardware.fx.tunnel@1.0 \
     capi_v2_dap_cpdp \
     hrtf5c \
     libMIAIHDR_skel \
